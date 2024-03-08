@@ -52,9 +52,6 @@ dataset_creator = CreateDataset(
 dataset_creator.create_dataset()
 ```
 
-## Contribution
-Contributions are welcome! If you have suggestions for improvements or bug fixes, please feel free to fork the repository and submit a pull request.
-
 ## License
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)- see the LICENSE file for details.
 
