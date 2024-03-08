@@ -1,0 +1,3 @@
+wikipedia
+pdfminer.six
+langchain-google-genai
